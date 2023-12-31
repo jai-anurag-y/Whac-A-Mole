@@ -35,6 +35,6 @@ Feel free to customize the game by changing the styles, adding new features, or 
 
 ## Credits
 
-This game was created by Jai Anurag Y as a fun project. Feel free to contribute or share your feedback.
+This game was created by **Jai Anurag Y** as a fun project. Feel free to contribute or share your feedback.
 
 Have a great time playing Whac-A-Mole!
