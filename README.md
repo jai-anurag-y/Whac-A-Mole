@@ -4,8 +4,7 @@ Whac-A-Mole is a simple web-based game where you can test your reflexes by tryin
 
 ## Getting Started
 
-1. Clone or download the repository to your local machine.
-2. Open the `index.html` file in a web browser.
+1. Open the `index.html` file in a web browser.
 
 ## Gameplay Instructions
 
